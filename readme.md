@@ -17,7 +17,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_2-2-2023_15319_127.0.0.1.jpeg)
 ![lco](./screenshots/Web%20capture_2-2-2023_15444_127.0.0.1.jpeg)
 
-## [Live Project Link](https://incandescent-twilight-721f22.netlify.app)
+## [Live Project Link](https://button-increment.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
